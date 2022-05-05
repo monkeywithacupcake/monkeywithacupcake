@@ -3,7 +3,7 @@
 - :calling: see: [stuff I made](https://www.github.com/monkeywithacupcake/stuffimade)
 - :nut_and_bolt: I’m learning SwiftUI and making a new iOS app
 - 💬 Ask me about birds, or dogs, or cupcakes, or running, or data analysis :) 
-
+- :bicyclist: I am cycling to replace my car. I'm a bit of a nut about it.
 - :evergreen_tree:  Fun fact: When I'm not here, I might be running in the Olympic National Park
 - :cherry_blossom: Pronouns: she/her
 - :telephone: Contact me on twitter @jessachandler
