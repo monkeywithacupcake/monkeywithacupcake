@@ -1,7 +1,7 @@
 ### Howdy ... want some :cake: ? 
 
 - :calling: see: [stuff I made](https://www.github.com/monkeywithacupcake/stuffimade)
-- :nut_and_bolt: I’m learning SwiftUI and making a new iOS app
+- :nut_and_bolt: I’m exploring mostly transit and equity data - and trying #MakeoverMonday
 - 💬 Ask me about birds, or dogs, or cupcakes, or running, or data analysis :) 
 - :bicyclist: I am cycling to replace my car. I'm a bit of a nut about it.
 - :evergreen_tree:  Fun fact: When I'm not here, I might be running in the Olympic National Park
@@ -16,4 +16,7 @@
 ![mongodb](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
+
+
+I've built so many things, and I don't have "the one project" that I think is the most **me**. I made several iOS apps, I've built websites - the most complex being a two sided marketplace. I've contributed a little to several softwares that I use. I love making things and making things better (*subjectively, of course*)
 
