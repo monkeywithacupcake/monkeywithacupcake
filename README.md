@@ -1,4 +1,6 @@
-### Howdy ... want some :cake: ? <a href="https://www.buymeacoffee.com/monkeywacupcake" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+### Howdy ... want some :cupcake: ? 
+
+<a href="https://www.buymeacoffee.com/monkeywacupcake" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="31" width="174"></a>
 
 - :calling: see: [stuff I made](https://www.github.com/monkeywithacupcake/stuffimade)
 - 💬 Ask me about birds, or dogs, or cupcakes, or running, or data analysis :) 
