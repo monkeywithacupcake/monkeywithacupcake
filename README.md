@@ -1,7 +1,6 @@
-### Howdy ... want some :cake: ? 
+### Howdy ... want some :cake: ? <a href="https://www.buymeacoffee.com/monkeywacupcake" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 - :calling: see: [stuff I made](https://www.github.com/monkeywithacupcake/stuffimade)
-- :nut_and_bolt: I’m exploring mostly transit and equity data - and trying #MakeoverMonday
 - 💬 Ask me about birds, or dogs, or cupcakes, or running, or data analysis :) 
 - :bicyclist: I am cycling to replace my car. I'm a bit of a nut about it.
 - :evergreen_tree:  Fun fact: When I'm not here, I might be running in the Olympic National Park
