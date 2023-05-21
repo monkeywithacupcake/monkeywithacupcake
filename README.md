@@ -6,8 +6,7 @@
 - 💬 Ask me about birds, or dogs, or cupcakes, or running, or data analysis :) 
 - :bicyclist: I am cycling to replace my car. I'm a bit of a nut about it.
 - :evergreen_tree:  Fun fact: When I'm not here, I might be running in the Olympic National Park
-- :cherry_blossom: Pronouns: she/her
-- :telephone: Contact me on twitter @jessachandler
+
 
 ## I love using:
 ![R](https://img.shields.io/badge/RStats-lightgrey?&style=for-the-badge&logo=R&logoColor=white)
